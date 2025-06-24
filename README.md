@@ -122,6 +122,9 @@
    ...my_tests
    ```
 
+
+   В файле db.txt находится база данных. А с помощью файла insert_data.py можно добавить или удалить данные.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
