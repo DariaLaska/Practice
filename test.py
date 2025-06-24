@@ -1,5 +1,6 @@
 from main import *
 
+print(main('--test=test'))
 print(main('--f_name1=vasya@pukin.ru'))
 print(main('--customer=John Smith --дата_заказа=27.05.2025'))
 print(main('--customer=John Smith --дата_заказа=27.05.2025 --number=+7999 999 98 80'))
