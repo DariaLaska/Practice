@@ -10,5 +10,6 @@ print(main('--f_name1=27.05.2025 --f_name2=+7 903 123 45 78'))
 print(main('--f_name1=2025-05-25 --f_name2=+7 903 123 45 78'))
 print(main('--tumba=27.05.2025 --yumba=+7 903 123 45 78'))
 print(main('--order_id=5 --contact=+7 999 999 99 99'))
+print(main('--order_id=1 --customer=Ivan'))
+print(main('--customer=Ivan --address=Moscow'))
 print(main('--дата_заказа=1990-08-09'))
-
