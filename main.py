@@ -48,5 +48,5 @@ def main(input_):
         diction[key]= spicies
     return existence(diction)
 
-print(main('--customer=John Smith --дата_заказа=27.05.2025'))
+print(main(input()))
 
